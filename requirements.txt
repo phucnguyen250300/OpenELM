@@ -1,8 +1,8 @@
 hydra-core>=1.2.0
 wandb>=0.13
-numpy
-torch>=1.10
-transformers>=4.22.0
+numpy==1.23.5
+torch==1.13.1
+transformers==4.27.0
 tokenizers
 requests
 Flask
